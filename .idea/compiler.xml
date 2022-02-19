@@ -9,5 +9,8 @@
         <module name="tdd" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tdd" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
